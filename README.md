@@ -15,13 +15,13 @@
 
 ## 🔖&nbsp; Sobre
 
-Curriculum Vitae (CV) Online, com referência em W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
+Meu Curriculum Vitae (CV) Online, elaborado com referência em W3C pela DIO: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido pela Digital Innovation One utilizando as seguintes tecnologias:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
