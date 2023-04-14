@@ -25,7 +25,6 @@ O projeto foi desenvolvido pela Digital Innovation One utilizando as seguintes t
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [W3C](https://www.w3schools.com)
 
 ---
